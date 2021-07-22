@@ -23,10 +23,10 @@ and coding of course 💻
 <br />
 
 ### You can contact me:
-[<img align="left" alt="vk" width="50px" src="https://img.icons8.com/color/452/vk-com.png" />][vk]
-[<img align="left" alt="facebook" width="50px" src="https://img.icons8.com/color/452/facebook.png" />][facebook]
-[<img align="left" alt="intagram" width="50px" src="https://img.icons8.com/color/452/instagram-new.png" />][instagram]
-[<img align="left" alt="gmail" width="50px" src="https://img.icons8.com/color/452/gmail.png" />][gmail]
+[<img align="left" alt="vk" width="45px" src="https://img.icons8.com/color/452/vk-com.png" />][vk]
+[<img align="left" alt="facebook" width="45px" src="https://img.icons8.com/color/452/facebook.png" />][facebook]
+[<img align="left" alt="intagram" width="45px" src="https://img.icons8.com/color/452/instagram-new.png" />][instagram]
+[<img align="left" alt="gmail" width="45px" src="https://img.icons8.com/color/452/gmail.png" />][gmail]
 
 
 [vk]: https://vk.com/sansey2008
