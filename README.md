@@ -30,7 +30,7 @@ and coding of course 💻
 [vk]: https://vk.com/sansey2008
 [facebook]: https://www.facebook.com/alexandr.esarev
 [instagram]: https://www.instagram.com/alex_esarev/
-[gmail]: https://myaccount.google.com/
+[gmail]: <a href="mailto:esarev89@gmail.com">
 
 
 
