@@ -20,7 +20,6 @@ and coding of course 💻
 <br />
 <br />
 <br />
-<br />
 
 ### You can contact me:
 [<img align="left" alt="vk" width="45px" src="https://img.icons8.com/color/452/vk-com.png" />][vk]
