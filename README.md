@@ -20,7 +20,7 @@ and coding of course 💻
 <br />
 <br />
 
-### You contact me:
+### You can contact me:
 [<img align="left" alt="vk" width="50px" src="https://img.icons8.com/color/452/vk-com.png" />][vk]
 [<img align="left" alt="facebook" width="50px" src="https://img.icons8.com/color/452/facebook.png" />][facebook]
 [<img align="left" alt="intagram" width="50px" src="https://img.icons8.com/color/452/instagram-new.png" />][instagram]
