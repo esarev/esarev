@@ -6,7 +6,7 @@ I like:
 - 🎼 music
 - ⚽ soccer
 - 🤘 rock'n'roll
-- 📖 learning new things
+- 📖 learn something new
 
 and coding of course 💻
 
