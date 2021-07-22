@@ -33,6 +33,16 @@ and coding of course 💻
 [instagram]: https://www.instagram.com/alex_esarev/
 [gmail]: https://mail.google.com/mail/esarev89@gmail.com
 
+<br />
+<br />
+<br />
+
+### Statistics:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esarev&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
 
 
 
