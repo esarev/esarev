@@ -31,7 +31,9 @@ and coding of course 💻
 [vk]: https://vk.com/sansey2008
 [facebook]: https://www.facebook.com/alexandr.esarev
 [instagram]: https://www.instagram.com/alex_esarev/
-[gmail]: https://mail.google.com/mail/esarev89@gmail.com
+[gmail]: <a href="mailto:esarev@inbox.ru" target="_blank">esarev@inbox.ru</a>
+
+<!-- https://mail.google.com/mail/esarev89@gmail.com -->
 
 <br />
 <br />
