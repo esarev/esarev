@@ -41,7 +41,7 @@ and coding of course 💻
 ### Statistics:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=esarev&theme=prussian&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-https://GITHUB-USERNAME.github.io/rsschool-cv/cv
+https://github.com/esarev.github.io/rsschool-cv/cv
 
 
 
